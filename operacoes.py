@@ -1,4 +1,4 @@
-from operacoes import reprovado, imprimir_reprovados
+from operacoes import calcular_media, reprovado, imprimir_reprovados
 
 # Informações sobre os alunos
 alunos = {
